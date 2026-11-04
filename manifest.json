@@ -1,0 +1,9 @@
+{
+  "name": "ESSENCE Language Translator",
+  "short_name": "ESSENCE",
+  "description": "Translate words between languages",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f6fc",
+  "theme_color": "#0D47A1"
+}
